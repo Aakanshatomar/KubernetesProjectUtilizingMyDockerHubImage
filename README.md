@@ -1,0 +1,1 @@
+“This project demonstrates deploying a containerized application on Kubernetes using custom YAML manifests. The application runs on a Docker image that I built, published to Docker Hub, and integrated into the Kubernetes configuration for seamless deployment and service management.”
